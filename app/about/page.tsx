@@ -46,9 +46,7 @@ export default function About() {
             My core expertise lies in Figma for design, along with HTML, CSS, JavaScript, Bootstrap, Angular, and React basics. I also work with tools like Photoshop, Framer, and After Effects.
             Over the years, I've contributed to 9+ projects across diverse domains — including banking (Finsync), mutual funds (UTI), e-commerce, email marketing (MailBlitz), and mobile apps — which has given me strong exposure to both design and development.
             My focus has always been on creating clean, intuitive interfaces that improve user engagement and satisfaction. I'm passionate about learning new technologies and continuously improving my skill set.
-            I hold a B.Tech in Electronics and Communication Engineering from RGPV, Bhopal."**
-
-            Feel free to ask me to make it shorter, more technical, or tailored for a specific role!.</p>
+            I hold a B.Tech in Electronics and Communication Engineering from RGPV, Bhopal.</p>
 
         </motion.div>
       </main>
