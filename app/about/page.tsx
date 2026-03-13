@@ -41,11 +41,11 @@ export default function About() {
             About Me
           </h1>
           <p className="max-w-4xl text-md md:text-xl lg:text-2xl text-left">
-            I’m Anurudh Shrivastava, a UI/UX Developer and Front-End Developer with 4 years of experience building user-friendly interfaces for web and mobile applications.
-            I started my career at Cylsys Software Pvt Ltd, Mumbai, where I worked as a Front-End Developer and UI/UX Designer for over 2 years. After that, I joined Kiyaan Technology in Indore, and I'm currently working at Ideal IT Techno Pvt Ltd, Indore.
+            I&apos;m Anurudh Shrivastava, a UI/UX Developer and Front-End Developer with 4 years of experience building user-friendly interfaces for web and mobile applications.
+            I started my career at Cylsys Software Pvt Ltd, Mumbai, where I worked as a Front-End Developer and UI/UX Designer for over 2 years. After that, I joined Kiyaan Technology in Indore, and I&apos;m currently working at Ideal IT Techno Pvt Ltd, Indore.
             My core expertise lies in Figma for design, along with HTML, CSS, JavaScript, Bootstrap, Angular, and React basics. I also work with tools like Photoshop, Framer, and After Effects.
-            Over the years, I've contributed to 9+ projects across diverse domains — including banking (Finsync), mutual funds (UTI), e-commerce, email marketing (MailBlitz), and mobile apps — which has given me strong exposure to both design and development.
-            My focus has always been on creating clean, intuitive interfaces that improve user engagement and satisfaction. I'm passionate about learning new technologies and continuously improving my skill set.
+            Over the years, I&apos;ve contributed to 9+ projects across diverse domains — including banking (Finsync), mutual funds (UTI), e-commerce, email marketing (MailBlitz), and mobile apps — which has given me strong exposure to both design and development.
+            My focus has always been on creating clean, intuitive interfaces that improve user engagement and satisfaction. I&apos;m passionate about learning new technologies and continuously improving my skill set.
             I hold a B.Tech in Electronics and Communication Engineering from RGPV, Bhopal.</p>
 
         </motion.div>
